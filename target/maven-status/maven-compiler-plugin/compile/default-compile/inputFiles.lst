@@ -1,0 +1,5 @@
+/home/docker/kubernetes/sailor/src/main/java/com/hinckley/sailor/config/WebMvcConfig.java
+/home/docker/kubernetes/sailor/src/main/java/com/hinckley/sailor/init/SailorWebApplicationInitializer.java
+/home/docker/kubernetes/sailor/src/main/java/com/hinckley/sailor/config/RootConfig.java
+/home/docker/kubernetes/sailor/src/main/java/com/hinckley/sailor/api/HealthCheckApiController.java
+/home/docker/kubernetes/sailor/src/main/java/com/hinckley/sailor/api/InfoEndpoint.java
